@@ -96,6 +96,8 @@ Se possível:
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
+Eu, Murilo, fiz o projeto para fins de estudos, todo o direito de ideia é da Camila, instrutora da DIO.
+
 
 
 
